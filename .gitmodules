@@ -1,0 +1,3 @@
+[submodule "showdown-ai-runner"]
+	path = showdown-ai-runner
+	url = git@github.com:calebdinsmore/showdown-ai-runner.git
