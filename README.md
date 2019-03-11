@@ -1,3 +1,3 @@
 # Deep Pokemon
 
-This is my personal project 
+TODO: make README
