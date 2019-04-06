@@ -1,1 +1,4 @@
 
+[submodule "showdown.py"]
+	path = showdown.py
+	url = git@github.com:calebdinsmore/showdown.py.git
